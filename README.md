@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EvanVerity
--  My school email is evan.verity@bellevuecollege.edu
 - 👀 I’m interested in game design
 - 🌱 I’m currently studying for a Bachelors in Computer Science
 - 📫 How to reach me: contact me here
